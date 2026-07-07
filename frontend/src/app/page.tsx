@@ -27,7 +27,7 @@ export default function HomePage() {
             href="/bestellen"
             className="rounded-full border border-zinc-300 bg-white px-6 py-3 font-semibold text-zinc-950 transition hover:bg-orange-100"
           >
-            Bestellen
+            Bestellen banh mi
           </a>
         </div>
       </section>
