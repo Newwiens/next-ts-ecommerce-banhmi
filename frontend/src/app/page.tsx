@@ -7,7 +7,7 @@ export default function HomePage() {
         </p>
 
         <h1 className="max-w-3xl text-5xl font-bold tracking-tight text-zinc-950 md:text-7xl">
-          Verse Bánh Mì met de smaak van Sài Gòn
+          Verse Bánh Mì met de smaak van Sài Gòn (TEST)
         </h1>
 
         <p className="mt-6 max-w-2xl text-lg leading-8 text-zinc-700">
