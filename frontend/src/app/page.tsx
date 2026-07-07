@@ -20,7 +20,7 @@ export default function HomePage() {
             href="/menu"
             className="rounded-full bg-red-600 px-6 py-3 font-semibold text-white transition hover:bg-red-700"
           >
-            Bekijk menu
+            Bekijk menu (Menu Banh mi test 1)
           </a>
 
           <a
