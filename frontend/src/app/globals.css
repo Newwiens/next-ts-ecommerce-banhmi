@@ -15,7 +15,7 @@ html {
 
 body {
   margin: 0;
-  background-color: red;
-  /* background: var(--background); */
+  background: #f2e1cb;
   color: var(--foreground);
+  /* color: var(--foreground); */
 }
