@@ -1,3 +1,3 @@
 export default function HomePage() {
-  return <main className="min-h-screen bg-red-700"></main>;
+  return <section className="min-h-screen"></section>;
 }

@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
 import type { ReactNode } from "react";
-import "./globals.css";
 
-import Navbar from "@/components/layout/Navbar";
+import Header from "@/components/layout/Header";
+import "./globals.css";
 
 export const metadata: Metadata = {
   title: "Ba Mi Vietnam",
@@ -17,7 +17,7 @@ export default function RootLayout({ children }: RootLayoutProps) {
   return (
     <html lang="nl">
       <body>
-        <Navbar />
+        <Header />
         <main>{children}</main>
       </body>
     </html>
